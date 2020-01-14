@@ -27,7 +27,7 @@
 				<key>name</key>
 				<string>%NAME%</string>
 				<key>category</key>
-				<string>%MUNKI_CATEGORY%</string>
+				<string>Communication</string>
 				<key>unattended_install</key>
 				<true/>
 			</dict>
