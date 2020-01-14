@@ -20,6 +20,8 @@
 				<array>
 					<string>testing</string>
 				</array>
+				<key>description</key>
+				<string>Signal Messenger is a messaging app that allows users to communicate with anonymity in the sense that the source of each message cannot be detected by outside parties.</string>
 				<key>developer</key>
 				<string>Signal Messenger LLC.</string>
 				<key>display_name</key>
