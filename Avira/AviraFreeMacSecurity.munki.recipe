@@ -14,8 +14,8 @@
 		<string>Avira Free Mac Security</string>
 		<key>pkginfo</key>
 		<dict>
-			<key>RestartAction</key>
-			<string>RequireLogout</string>
+			<!-- <key>RestartAction</key> -->
+			<!-- <string>RequireLogout</string> -->
 			<key>blocking_applications</key>
 			<array>
 				<string>Avira.app</string>
